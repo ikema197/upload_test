@@ -1,0 +1,1 @@
++++ title = "お知らせ" description = "" summary = "" menu = "footer1" weight = 20 type = "template" layout = "d1" +++ ここにアルパカ証券からのお知らせが表示されます。
